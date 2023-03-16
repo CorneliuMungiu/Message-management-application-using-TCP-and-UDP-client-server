@@ -74,4 +74,4 @@ The command to subscribe to a topic has a SF (store-and-forward) parameter. If t
 
 ## Test ##
 To test the application run:
-```python3 test.py```
+```python3 ./test.py```
